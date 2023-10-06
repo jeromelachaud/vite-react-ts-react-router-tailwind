@@ -6,7 +6,8 @@
   "packageRules": [
     {
       "updateTypes": ["patch", "minor"],
-      "automerge": true
+      "automerge": true,
+      "ignoreTests": true
     }
   ]
 }
